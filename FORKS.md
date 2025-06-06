@@ -12,8 +12,8 @@ If you have forked and hosted a VRAM agent, add your information via a Pull Requ
 
 | GitHub Creator | Repository                                               | Deployed URL          | Agent Type    | Status  |
 | -------------- | -------------------------------------------------------- | --------------------- | ------------- | ------- |
-| @Sayskh        | [MyAgent](https://github.com/Sayskh/ai-forge)            | https://testnet.vram.ai/trading-view/0x1dc1f84b69fd806437083c84dd928aafe4a60220bc9c4eba44df48472b3ede65  | Trading Bot   | 🟢 Live |
-| @silverbrain20 | [MyAgent](https://github.com/silverbrain20/ai-forge)     | https://testnet.vram.ai/trading-view/0xc78b8254f6a2d41d9d2b25b791c726fc94d0e5a69d92a5a051a5bf15c337a95f  | Trading Bot   | 🟢 Live |
+| @jahemkuy2       | [MyAgent](https://github.com/jahemkuy2/agent-forge)           | https://testnet.vram.ai/trading-view/0x62287f7a6f9ff6d4a197085e8d8cc45db818907e3374c8539f4220ab54659456::gvrip::GVRIP  | Trading Bot   | 🟢 Live |
+| @jahemkuy2       | [MyAgent](https://github.com/jahemkuy2/agent-forge)           | https://testnet.vram.ai/trading-view/0x9a5f69419c013e450659d424fe4af21e565d6f29ddf4bf6712ac5e81b5a57779::kill::KILL  | Trading Bot   | 🟢 Live |
 ### 📊 Available Statuses
 
 - 🟢 Live (Operational)
